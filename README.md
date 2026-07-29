@@ -44,7 +44,7 @@ I'm keeping notes here on real problems I ran into and how I solved them — thi
 ---
 ## 📬 Connect
 If you're on a similar journey or hiring for DevOps roles, feel free to reach out!
-- LinkedIn: [your-linkedin-url]
-- Email: [your-email]
+- LinkedIn: (https://www.linkedin.com/in/samir-maji-devops-aws/)
+- Email: samirmaji348@gmail.com
 ---
 ⭐ *This repo is a living document — updated as I learn and build. Star it if you find it useful for your own journey!*
