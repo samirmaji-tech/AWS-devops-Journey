@@ -1,4 +1,4 @@
-![Banner](./banner.svg)
+![Banner](./banner.png)
 
 # ☁️ AWS & DevOps Journey
 This repo documents my hands-on journey learning **AWS, Linux, Git, Docker, and CI/CD** as I transition into a DevOps career. Instead of just following tutorials, I'm using this repo to track what I build, what breaks, and what I learn from fixing it.
